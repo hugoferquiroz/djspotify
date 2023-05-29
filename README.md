@@ -54,7 +54,7 @@ Project Organization
     └── frontend app        <- Code for the frontend of the application
 
 
-The application is deployed in [this webpage](!https://14-spotify-sangha.vercel.app/login) 
+The application is deployed in [this webpage](https://14-spotify-sangha.vercel.app/login) 
 
 --------
 
